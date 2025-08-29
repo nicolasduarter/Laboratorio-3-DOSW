@@ -1,2 +1,18 @@
 # Laboratorio-3-DOSW
 Project for lab03
+**preguntas iniciales**
+A. La diferencia principal entre una prueba unitaria y una prueba de integración E2E radica en su alcance y objetivo, la prueba unitaria se enfoca en verificar que una función o componente específico del código funcione correctamente de manera aislada, sin depender de otros módulos, mientras que la prueba de integración E2E (end-to-end) valida que todo el sistema, incluyendo la interacción entre múltiples componentes y servicios, funcione como se espera desde la perspectiva del usuario final, simulando escenarios completos de uso.
+
+B. En Scrum, la Sprint Retrospective tiene como propósito que el equipo reflexione sobre el trabajo realizado durante la sprint, identifique fortalezas, debilidades y oportunidades de mejora, y acuerde acciones concretas para optimizar procesos y colaboración en sprints futuras. Es crucial para la mejora continua porque permite aprender de la experiencia, fomentar la comunicación abierta y ajustar la manera de trabajar para aumentar la eficiencia y calidad del producto entregado.
+
+C. Una Épica es un gran objetivo o requerimiento que abarca múltiples funcionalidades. Una Feature es una funcionalidad específica que forma parte de la épica, como “Permitir a los usuarios crear y editar listas de reproducción”. una historia de usuario es una unidad de trabajo pequeña y concreta que describe una necesidad desde la perspectiva del usuario.
+
+D. La cobertura de código (code coverage) mide qué porcentaje del código fuente ha sido ejecutado durante las pruebas, indicando qué partes han sido probadas. Sin embargo, una cobertura del 100% no garantiza que el software esté libre de errores, ya que las pruebas pueden no verificar todas las combinaciones posibles de entradas, condiciones de borde o interacciones complejas, dejando posibles fallas sin detectar.
+
+E. Un Diagrama de Casos de Uso representa gráficamente las interacciones entre los actores (usuarios o sistemas externos) y el sistema, mostrando qué funcionalidades o servicios ofrece el sistema. Sus elementos principales son actores, casos de uso, relaciones (asociación, inclusión, extensión) y el sistema en sí. Sirve en la fase de análisis de requerimientos para entender el comportamiento esperado del sistema y establecer un lenguaje común entre el equipo técnico y los interesados.
+
+F. JUnit se utiliza para crear y ejecutar pruebas unitarias en Java, mientras que JaCoCo se enfoca en medir la cobertura de esas pruebas, mostrando qué partes del código han sido ejecutadas. SonarQube complementa este proceso evaluando la calidad del código, integrando métricas de cobertura, complejidad y vulnerabilidades, lo que permite al equipo mantener un estándar de calidad y detectar áreas problemáticas antes de la entrega.
+
+G. El uso de Planning Poker ofrece ventajas frente a métodos de estimación tradicionales porque fomenta la discusión colectiva, evita que un solo miembro influya en el resto y permite llegar a consensos basados en diferentes perspectivas del equipo. Esto mejora la transparencia sobre la dificultad y el esfuerzo de cada tarea, y genera mayor compromiso del equipo al involucrar a todos en la estimación y planificación.
+
+H. Los valores de Scrum son compromiso, coraje, enfoque, apertura y respeto. El valor más difícil de aplicar suele ser el coraje, porque requiere que los miembros del equipo expresen preocupaciones, errores o ideas innovadoras sin miedo a represalias o juicio, lo que puede ser complicado en entornos donde la cultura no fomenta la comunicación abierta y la aceptación del riesgo de equivocarse.
