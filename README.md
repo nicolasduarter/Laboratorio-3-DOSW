@@ -102,3 +102,4 @@ Ejecutar pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad 
 - Como administrador quiero registrar los bancos para aumentar la cobertura del sistema
 
 ![Captura](docs/images/excel_historias_usuario.png)
+
