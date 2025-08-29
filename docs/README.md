@@ -1,6 +1,6 @@
 # Laboratorio-3-DOSW
 Project for lab03
-**preguntas iniciales**
+**preguntas iniciales**  
 A. La diferencia principal entre una prueba unitaria y una prueba de integración E2E radica en su alcance y objetivo, la prueba unitaria se enfoca en verificar que una función o componente específico del código funcione correctamente de manera aislada, sin depender de otros módulos, mientras que la prueba de integración E2E (end-to-end) valida que todo el sistema, incluyendo la interacción entre múltiples componentes y servicios, funcione como se espera desde la perspectiva del usuario final, simulando escenarios completos de uso.
 
 B. En Scrum, la Sprint Retrospective tiene como propósito que el equipo reflexione sobre el trabajo realizado durante la sprint, identifique fortalezas, debilidades y oportunidades de mejora, y acuerde acciones concretas para optimizar procesos y colaboración en sprints futuras. Es crucial para la mejora continua porque permite aprender de la experiencia, fomentar la comunicación abierta y ajustar la manera de trabajar para aumentar la eficiencia y calidad del producto entregado.
