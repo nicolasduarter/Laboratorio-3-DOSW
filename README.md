@@ -83,6 +83,11 @@ Ejecutar pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad 
 
 - Control de autenticación 
 
+
+## Diagrama de casos de uso
+![Captura](docs/uml/Diagrama%20de%20caso%20de%20uso%20(1).png)
+
+
 ## Historias de usuario
 <h4> Cliente </h4>
 
@@ -94,3 +99,5 @@ Ejecutar pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad 
 
 - Como administrador quiero administrar el sistema para asegurar el correcto funcionamiento
 - Como administrador quiero registrar los bancos para aumentar la cobertura del sistema
+
+![Captura](docs/images/excel_historias_usuario.png)
