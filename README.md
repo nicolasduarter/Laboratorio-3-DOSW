@@ -83,7 +83,8 @@ Ejecutar pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad 
 
 - Control de autenticación 
 
-
+## Diagrama de contexto
+![Bankify](docs/uml/DiagramaContexto.png)
 ## Diagrama de casos de uso
 ![Captura](docs/uml/Diagrama%20de%20caso%20de%20uso%20(1).png)
 
