@@ -83,3 +83,14 @@ Ejecutar pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad 
 
 - Control de autenticación 
 
+## Historias de usuario
+<h4> Cliente </h4>
+
+- como usuario quiero crear una cuenta para realizar depósitos
+- como usuario quiero realizar depósitos para aumentar mi saldo
+- como usuario quiero consultar datos para conocer el estado de mi cuenta
+
+<h4> administrador </h4>
+
+- como administrador quiero administrar el sistema para asegurar el correcto funcionamiento
+- como administrador quiero registrar los bancos para aumentar la cobertura del sistema
