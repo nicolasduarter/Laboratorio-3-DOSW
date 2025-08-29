@@ -102,4 +102,3 @@ Ejecutar pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad 
 
 ![Captura](docs/images/excel_historias_usuario.png)
 
-https://lucid.app/lucidchart/21876d42-eefb-48a6-8524-20cca1844338/edit?view_items=crQL.j65oBZM&invitationId=inv_33a6caa7-1ef5-41cf-bc82-3c19780e66dc
