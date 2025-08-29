@@ -69,11 +69,11 @@ Registra bancos válidos en el sistema.
 
 <h4>Sistema de validacion</h4>
 
-Se encarga de procesar reglas de negocio y operaciones de cuentas.
+Procesar reglas de negocio y operaciones de cuentas.
 
 <h4>Auditor</h4>
 
-Ejecuta pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad del código (SonarQube).
+Ejecutar pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad del código (SonarQube).
 
 ## Precondiciones del Sistema
 
