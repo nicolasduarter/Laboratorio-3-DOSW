@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>edu.dosw.lab</groupId>
-	<artifactId>Laboratorio-3-DOSW </artifactId>
+	<artifactId>Laboratorio-3-DOSW</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Laboratorio-3-DOSW </name>
+	<name>Laboratorio-3-DOSW</name>
 	<description>Project for Lab03</description>
 	<url/>
 	<licenses>
