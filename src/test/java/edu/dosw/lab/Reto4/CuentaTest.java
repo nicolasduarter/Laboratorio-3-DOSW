@@ -12,7 +12,7 @@ class CuentaTest {
                 "02", "DAVIVIENDA"
         );
 
-        ValidadorCuenta validador = new ValidadorCuenta(bancos);
+        ValidadorCuenta validador = new  ValidadorCuenta(bancos);
 
         String cuentaValida = "0101234567";
         assertTrue(validador.esCuentaValida(cuentaValida));
