@@ -120,6 +120,7 @@ En este reto se realizaron las siguientes actividades:
 ![Captura](docs/images/sonar.png)
 
 ###reflexion
--Nicolas:Es importante ya que permite detectar errores temprano haciendo todo el proceso mas rapido.
--Juan:Ayudan a verificar que el proyecto si cumpla con todos los requerimientos.
--Santiago:Ayuda a documentar los caasos de uso.
+- ¿Por qué considera que es importante realizar pruebas a un software diseñado? 
+- Nicolas:Es importante ya que permite detectar errores temprano haciendo todo el proceso mas rapido.
+- Juan:Ayudan a verificar que el proyecto si cumpla con todos los requerimientos.
+- Santiago:Ayuda a documentar los caasos de uso.
