@@ -121,8 +121,12 @@ El flujo:
 esta pide los votos y verifica en caso de ser divergente crea un objeto de votacion divergente y se vuelve a votar
 hasta que sea aceptada, en aceptada llama un metodo para ver si hay mas historias y ver si puede finalizar
 
-
-
+![captura](docs/images/reto3_1(1).png)
+![captura](docs/images/reto3_1(2).png)
+![captura](docs/images/reto3_1(3).png)
+![captura](docs/images/reto3_1(4).png)
+![captura](docs/images/reto3_1(5).png)
+![captura](docs/images/reto3_1(6).png)
 
 
 
