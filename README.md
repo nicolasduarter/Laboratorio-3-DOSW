@@ -103,6 +103,33 @@ Ejecutar pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad 
 
 ![Captura](docs/images/excel_historias_usuario.png)
 
+
+## Reto 3
+Para este reto se decidio usar el patron **State**, esto por que podemos 
+usar cada estado como un objeto independiente
+
+- Tenemos una interfaz Estado Historia
+- Tenemos una clase para cada estado (Aceptada, pendiente, divergente)
+- Tenemos una interfaz para la verificacion
+- Tenemos una clase para la verificacion de fibonacci 
+- Tenemos una clase de contexto **Contexto votacion** que se encarga de la logica de loss votos y estados
+
+
+El flujo:
+- Planning poker crea un contexto votacion que comienza la votacion
+- El contexto votacion crea un estado de pendinte, y se comienza la votacion
+esta pide los votos y verifica en caso de ser divergente crea un objeto de votacion divergente y se vuelve a votar
+hasta que sea aceptada, en aceptada llama un metodo para ver si hay mas historias y ver si puede finalizar
+
+![captura](docs/images/reto3_1(1).png)
+![captura](docs/images/reto3_1(2).png)
+![captura](docs/images/reto3_1(3).png)
+![captura](docs/images/reto3_1(4).png)
+![captura](docs/images/reto3_1(5).png)
+![captura](docs/images/reto3_1(6).png)
+
+
+
 ## Reto 4
 
 - se crea la clase de prueba y se generan las pruebas del programa siguiendo las practicas TDD creando en total 3 test
