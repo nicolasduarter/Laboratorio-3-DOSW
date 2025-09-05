@@ -103,6 +103,21 @@ Ejecutar pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad 
 
 ![Captura](docs/images/excel_historias_usuario.png)
 
+## Reto 4
+
+- se crea la clase de prueba y se generan las pruebas del programa siguiendo las practicas TDD creando en total 3 test
+que deberian tener la cobertura requerida del codigo
+- se crea la clase de cuenta para todos los procesos de la cuenta requeridos, es decir crearla, adicionar
+realizar depositos o transferencias y consultar el estado de la cuenta
+- se crea la clase validador cuenta en donde se implementan los metodos necesarios para que las purebas creadas previamente funcionen
+
+![Captura](docs/images/pruebas.png)
+
+## reto 5
+- no hubo que agregar pruebas adicionales pues las que se crearon tienen una cobertura del 92% segun las respuestas de jacoco.
+- es importante tener una alta cobertura de pruebas en el codigo pues de esta forma se tiene un concepto de el funcionamiento total de este y se puede 
+saber que partes pueden o no tener fallos de ejecucion.
+
 ## Reto #6: Integración con SonarQube y JaCoCo
 
 En este reto se realizaron las siguientes actividades:
@@ -119,7 +134,7 @@ En este reto se realizaron las siguientes actividades:
 -Reporte SonarQube
 ![Captura](docs/images/sonar.png)
 
-###reflexion
+## reflexion
 - ¿Por qué considera que es importante realizar pruebas a un software diseñado? 
 - Nicolas:Es importante ya que permite detectar errores temprano haciendo todo el proceso mas rapido.
 - Juan:Ayudan a verificar que el proyecto si cumpla con todos los requerimientos.
