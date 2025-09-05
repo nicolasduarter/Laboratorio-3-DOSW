@@ -103,3 +103,23 @@ Ejecutar pruebas unitarias (TDD), verifica cobertura (JaCoCo), y revisa calidad 
 
 ![Captura](docs/images/excel_historias_usuario.png)
 
+## Reto #6: Integración con SonarQube y JaCoCo
+
+En este reto se realizaron las siguientes actividades:
+
+- Instalación y configuración de **SonarQube** con Docker.
+- Generación del **reporte de cobertura con JaCoCo**.
+- Integración del análisis estático en el proyecto con **Maven** y **SonarQube**.
+- Ejecución de análisis estático del código fuente.
+- Documentación de resultados.
+
+### Evidencias
+-Reporte Jacoco
+![Captura](docs/images/jacoco.png)
+-Reporte SonarQube
+![Captura](docs/images/sonar.png)
+
+###reflexion
+-Nicolas:Es importante ya que permite detectar errores temprano haciendo todo el proceso mas rapido.
+-Juan:Ayudan a verificar que el proyecto si cumpla con todos los requerimientos.
+-Santiago:Ayuda a documentar los caasos de uso.
